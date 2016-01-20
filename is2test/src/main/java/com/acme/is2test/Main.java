@@ -17,5 +17,8 @@ public class Main {
     }
   public void despedida (){
 
-}  
+} 
+  public class error {
+      gabriel zamora montesdeoca;
+  }
 }
