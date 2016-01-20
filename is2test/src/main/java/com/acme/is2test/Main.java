@@ -19,6 +19,6 @@ public class Main {
 
 } 
   public class error {
-      gabriel zamora montesdeoca;
+    //  gabriedddddd
   }
 }
