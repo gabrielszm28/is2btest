@@ -15,5 +15,7 @@ public class Main {
         
         
     }
-    
+  public void despedida (){
+
+}  
 }
